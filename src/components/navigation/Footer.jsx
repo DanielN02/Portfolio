@@ -2,7 +2,7 @@ import React from "react"
 import Resume from "../../assets/uResume.pdf";
 import { FaGithub, FaLinkedin, FaFile } from "react-icons/fa";
 
-const Foot = () =>{
+const Footer = () =>{
     return(
 <footer className="bg-[#0a192f] pt-4 bottom-0 w-[100%]">
 <div className="max-w-screen-lg px-4 mx-auto text-gray-300 xl:max-w-screen-xl sm:px-6 md:px-8">
@@ -61,4 +61,4 @@ const Foot = () =>{
     );
 }
 
-export default Foot
+export default Footer
