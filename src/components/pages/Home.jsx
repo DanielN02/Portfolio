@@ -1,7 +1,7 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 import { FaGithub, FaLinkedin, FaFile } from "react-icons/fa";
-import Resume from "../../assets/resume.pdf";
+import Resume from "../../assets/uResume.pdf";
 import { Link } from "react-scroll";
 
 const Home = () => {

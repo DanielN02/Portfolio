@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "../../assets/resume.pdf";
+import Resume from "../../assets/uResume.pdf";
 import { FaGithub, FaLinkedin, FaFile } from "react-icons/fa";
 
 const Footer = () => {
