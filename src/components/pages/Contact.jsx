@@ -17,7 +17,7 @@ const Contact = () => {
           </h1>
           <p className="text-gray-300 py-4">
             Feel free to get in touch with me about any open opportunities below
-            or by email{" "}
+            or by email at{" "}
             <a href="mailto: danielndri1@gmail.com">danielndri1@gmail.com</a>
           </p>
         </div>
